@@ -20,7 +20,6 @@ The Fast Rich Webframework for Your App
 - page plugins to send data to other systems on actions
 - API to get objects out of the system
 - administration areas
-- 
 
 ## Copyright & License
 - License is AGPL
@@ -29,5 +28,15 @@ The Fast Rich Webframework for Your App
 - License/copyright should not include any date but the commit history must be preserved
 - the running system must include a link to the source with the license (at least in the footer or imprint page or contact page) 
 
+## Marketing
+ - you can become a sponser, sponser will be promotet on the wepage, the partner networpage, the sponsors page and on events.
+ - 
 
+## Partner
+ - Hosting Partners "Manged Servers" (monitoring (application, firewall, logs, logins, load), firewall, security(restricted user accounts, restricted file access rights, https configuration, restricted physical access to the servers), rolling updates, backup & recovery)
+ - Designer (Styleguide, Atomic Design, Responsive Design, Web Design)
+ - HTML/CSS Developers (Jade Templates, Online Editor)
+ - Service Developers (Dataformat: PLAN x(JSON, SOAP, XML))
+ - Plugin Developers (D http://dlang.org/)
+ - Project Managment (Certifiet Projectmanager, will also organze ticketsystem & password managment tools if needed)
 
