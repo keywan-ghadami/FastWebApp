@@ -1,13 +1,30 @@
 # FastWebApp
-The Fast Rich Webframework for Your App
+A fast rich web application that can be used as shop, cms, forum and much more
+
+## Current State
+- planing
+- at the moment source contains a simple "hello world" based on vibe.d
+
+## Development
+- ubuntu 14.10 http://releases.ubuntu.com/14.10/
+- monodevelop 5.9 (http://www.mono-project.com/docs/getting-started/install/linux/#debian-ubuntu-and-derivatives)
+- mono.d plugin 
+- dmd compiler
+
+
+## Done
+- vibe.d (High-level declarative REST and web application framework) http://vibed.org/
+- dub
+- development (except debugging)
+
 
 ## Phase 1
-- Fast and simple client side javascript for geting only the nesesarry parts of the next page
-- vibe.d (High-level declarative REST and web application framework) http://vibed.org/
+- data abstraction layer
 - smart internal object cache that knows about related objects
-- smart build in HTTP cache support
-- data model (with pages, seo links, tags)
 - mongo db 
+- data model (with pages, seo links, tags)
+- smart build in HTTP cache support
+- Fast and simple client side javascript for geting only the nesesarry parts of the next page
 - smart template engine that precompiles templates, and supports round-trip-engineering with the page editor
 
 
