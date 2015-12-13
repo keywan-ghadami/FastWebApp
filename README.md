@@ -7,7 +7,13 @@ A fast rich web application that can be used as shop, cms, forum and much more
 
 ## Development
 - ubuntu 15.10 http://releases.ubuntu.com/15.10/
-- monodevelop 5.10 (http://www.mono-project.com/docs/getting-started/install/linux/#debian-ubuntu-and-derivatives)
+- monodevelop 5.10 (http://www.monodevelop.com/download/linux/)
+ - mono (http://www.mono-project.com/docs/getting-started/install/linux/#debian-ubuntu-and-derivatives)
+   sudo apt-key adv --keyserver hkp://keyserver.ubuntu.com:80 --recv-keys 3FA7E0328081BFF6A14DA29AA6A19B38D3D831EF
+   echo "deb http://download.mono-project.com/repo/debian wheezy main" | sudo tee /etc/apt/sources.list.d/mono-xamarin.list
+   sudo apt-get update
+   sudo apt-get install monodevelop
+
 - mono.d plugin 
 - dmd compiler
 
